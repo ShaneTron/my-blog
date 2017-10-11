@@ -2,6 +2,11 @@
   font-style: italic;
 }
 
+p.about {
+  color: green;
+  font-family: cursive;
+}
+
 .food {
   color: blue;
 }
